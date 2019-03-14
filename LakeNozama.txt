@@ -1,5 +1,5 @@
 *********Game Record***********
 
-Welma is the winner!
-NEW SCORE : 16
-Time Taken : 6.014154753 seconds
+Shaggy is the winner!
+NEW SCORE : 14
+Time Taken : 7.019370278 seconds
